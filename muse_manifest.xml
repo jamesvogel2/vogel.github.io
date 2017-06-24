@@ -1,0 +1,31 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="pink.com" resolutions="1x" timestamp="1498324804120">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4230696015" ref="projects:about:blog:pictures:index"/>
+    <file name="projects.css" crc="4243841611" ref="projects"/>
+    <file name="about.css" crc="4243841611" ref="about"/>
+    <file name="blog.css" crc="4243841611" ref="blog"/>
+    <file name="pictures.css" crc="4243841611" ref="pictures"/>
+    <file name="index.css" crc="432426533" ref="index"/>
+    <file name="untitled-5.css" crc="4193191577" ref="untitled-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="museutils.js" crc="163421577" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="museconfig.js" crc="36584860" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:blog:pictures:projects:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:pictures:projects:untitled-5:about"/>
+    <file name="require.js" crc="244322403" ref="index:blog:pictures:projects:untitled-5:about"/>
+  </folder>
+  <folder name="images">
+    <file name="img_3146.jpg" crc="3762639427" ref="index:blog:pictures:projects:about"/>
+  </folder>
+  <file name="index.html" crc="465413200" seo="true" mt="1482373588437" redirect="true"/>
+  <file name="blog.html" crc="183625379" seo="true" mt="1482373588437" redirect="true"/>
+  <file name="pictures.html" crc="455724541" seo="true" mt="1482373588437" redirect="true"/>
+  <file name="projects.html" crc="3932792358" seo="true" mt="1482373588437" redirect="true"/>
+  <file name="untitled-5.html" crc="502475611" seo="true" mt="1482371068449" redirect="false"/>
+  <file name="about.html" crc="3999033994" seo="true" mt="1482373588437" redirect="true"/>
+</manifest>
